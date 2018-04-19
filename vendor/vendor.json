@@ -9,10 +9,30 @@
 			"revisionTime": "2017-01-29T23:36:00Z"
 		},
 		{
+			"checksumSHA1": "cDfZtwSj/CfE2Gep6RNpKMqQogQ=",
+			"path": "github.com/onrik/logrus/filename",
+			"revision": "6a64e23a4923a8d0d4db2806dcf3e55af1e48f61",
+			"revisionTime": "2018-02-22T12:16:33Z"
+		},
+		{
 			"checksumSHA1": "ze1R6Lrk0kW0cX24ZdZD6ZpIDCo=",
 			"path": "github.com/samuel/go-zookeeper/zk",
 			"revision": "c4fab1ac1bec58281ad0667dc3f0907a9476ac47",
 			"revisionTime": "2018-01-30T19:37:22Z"
+		},
+		{
+			"checksumSHA1": "9ZSqjmvF/JE6Qj/5xOoCAmUgXz8=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "778f2e774c725116edbc3d039dc0dfc1cc62aae8",
+			"revisionTime": "2018-03-29T22:59:52Z"
+		},
+		{
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": ""
+		},
+		{
+			"path": "golang.org/x/sys/unix",
+			"revision": ""
 		},
 		{
 			"path": "leaderelection",
