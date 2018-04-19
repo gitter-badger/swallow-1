@@ -15,5 +15,12 @@
 
 
 # bin
-task_slave
-task_manager
+*.swp
+*.swo
+*.log
+/.vscode/
+/coverage.html
+.DS_store
+
+/task_slave
+/task_manager
