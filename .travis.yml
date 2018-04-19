@@ -11,3 +11,8 @@ before_install:
 
 script:
   - make
+  - go test -race -coverprofile=coverage.txt -covermode=atomic
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash) -t 176ac8a1-c47b-4e14-94dc-ebe6b303164c
+
