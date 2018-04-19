@@ -15,5 +15,5 @@
 
 
 # bin
-./task_slave
-./task_manager
+task_slave
+task_manager
