@@ -8,3 +8,6 @@ go:
 
 before_install:
   - go get -v golang.org/x/crypto/ssh/terminal
+
+script:
+  - make
