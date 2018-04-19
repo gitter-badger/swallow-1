@@ -1,0 +1,23 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "2/CcYPE5LEUCNJ7owsm0I2HzDYc=",
+			"path": "github.com/Comcast/go-leaderelection",
+			"revision": "67d0f02c81b8f6cc31a0e8f51d18fde88e1d160b",
+			"revisionTime": "2017-01-29T23:36:00Z"
+		},
+		{
+			"checksumSHA1": "ze1R6Lrk0kW0cX24ZdZD6ZpIDCo=",
+			"path": "github.com/samuel/go-zookeeper/zk",
+			"revision": "c4fab1ac1bec58281ad0667dc3f0907a9476ac47",
+			"revisionTime": "2018-01-30T19:37:22Z"
+		},
+		{
+			"path": "leaderelection",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com/luocheng812/swallow"
+}

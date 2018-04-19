@@ -1,0 +1,10 @@
+{
+    "id":"manager",
+    "kvdb" :{
+        "type" : "zookeeper",
+        "endpoints" : ["172.20.2.214:2181","172.20.2.214:2182","172.20.2.214:2183"],
+        "clusterID" : "clusterID",
+        "leaderID" : "172.20.2.11:8888"
+    }
+}
+

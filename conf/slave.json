@@ -1,0 +1,20 @@
+{
+    "id":"node",
+    "kvdb" :{
+        "type" : "zookeeper",
+        "endpoints" : ["172.20.2.214:2181","172.20.2.214:2182","172.20.2.214:2183"],
+        "clusterID" : "clusterID"
+    },
+
+    "node" : {
+        "id" : "nodeid",
+        "quota" : {
+            "1000":20,
+            "1200":10
+        },
+        "label" : [],
+        "service" : "",
+        "version" : 1
+    }
+}
+
